@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "ae021b017225114d",
+    "type": "split",
+    "children": [
+      {
+        "id": "734784078c0eb551",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b54efcec4bcd2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6c81c1e8efc74b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3547cbe6bfdd77aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef23e80c1a0a9eda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c911dc652984f2fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "57bd8ba492378022",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d164f0618b9c5341",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed2fa1d6a1ccabc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b842dff3e27113b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ed3d890aa9ba5eb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8c90026b70b1dab9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "350cd52b26d37d2a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Virtualization/QEMU.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of QEMU"
+            }
+          },
+          {
+            "id": "8c77708836133040",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "0be474c184c2ef22",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3b54efcec4bcd2d3",
+  "lastOpenFiles": [
+    "Development/Angular/Angular.md",
+    "Untitled.md",
+    "Development/NodeJs+Express/img_src/nodejs_roadmap.png",
+    "Development/NodeJs+Express/img_src/difference_js_nodejs.png",
+    "Development/NodeJs+Express/img_src/calc_app.png",
+    "Development/Angular/src_pdf/Angular-Modules-Handouts.pdf",
+    "Development/Angular/src_pdf/Angular-Components-Handouts.pdf",
+    "Development/Angular/src_img/without_ngrx2.png",
+    "Development/Angular/src_img/without_ngrx1.png",
+    "Development/Angular/src_img/user_redirection.png",
+    "Development/Angular/src_img/update_reservation_service.png",
+    "Development/Angular/src_img/update_reservation.png",
+    "Development/Angular/src_img/twb_exp.png",
+    "Development/Angular/src_img/sort_ts.png",
+    "Development/NodeJs+Express/img_src",
+    "Development/NodeJs+Express/NodeJS+Express.md",
+    "Development/Angular/src_pdf",
+    "Development/Angular/src_img",
+    "Development/NodeJs+Express",
+    "Development/MongoDB.md",
+    "Development/Git.md",
+    "Development/Docker.md",
+    "Development/Angular",
+    "Development",
+    "API.md",
+    "test.md",
+    "Virtualization/Windows VM with QEMU+KVM and GPU Passthrough.md",
+    "Virtualization/VFIO.md",
+    "Virtualization/QEMU.md",
+    "Virtualization/Muxed and Muxless Laptops.md",
+    "Virtualization/KVM.md",
+    "Untitled 3",
+    "Untitled 2",
+    "[[Angular-Components-Handouts.pdf.md",
+    "Linux Utilities/Whiptail.md",
+    "Linux Utilities/jq.md",
+    "hshs.md",
+    "Stuff To Do-Explore.md",
+    "Untitled 1.md",
+    "home/mhj/Documents/Obsidian.md",
+    "[[QEMU]].md"
+  ]
+}

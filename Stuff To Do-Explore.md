@@ -1,0 +1,12 @@
+- [ ] [Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+- [ ] [Single GPU Passthrough](https://gitlab.com/risingprismtv/single-gpu-passthrough)
+- [ ] Linux Gaming Guide Setup
+---
+* DevOps :
+	- [ ] Linux CLI
+	- [ ] Docker
+	- [ ] Kubernetes
+	- [ ] CI/CD
+	- [ ] AWS
+	- [ ] Pipelines
+---
