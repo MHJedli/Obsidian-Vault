@@ -1,4 +1,4 @@
-PCAP = Python Certified Associate Programmer
+ PCAP = Python Certified Associate Programmer
 
 # Section To Study:
 
