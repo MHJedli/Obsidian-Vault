@@ -207,3 +207,6 @@ module.exports = Etudiant
 * Here, we create an `etudiantSchema` which defines the structure the `etudiant` in the Database
 * Now, We create the `Etudiant` Modal with `mongoose.modal()` which can be concedered as the template
 * and finally, we export the module that we created with `module.exports = Etudiant`.
+
+---
+
