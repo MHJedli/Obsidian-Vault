@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/NodeJs+Express/NodeJS+Express.md",
+                "file": "Development/Python/PCAP CERT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NodeJS+Express"
+              "title": "PCAP CERT"
             }
           }
         ]
@@ -193,6 +193,9 @@
   },
   "active": "3b54efcec4bcd2d3",
   "lastOpenFiles": [
+    "Development/NodeJs+Express/NodeJS+Express.md",
+    "Development/Python/PCAP CERT.md",
+    "Development/Python",
     "Development/Angular/Angular.md",
     "API.md",
     "Stuff To Do-Explore.md",
@@ -210,7 +213,6 @@
     "Development/Angular/src_img/twb_exp.png",
     "Development/Angular/src_img/sort_ts.png",
     "Development/NodeJs+Express/img_src",
-    "Development/NodeJs+Express/NodeJS+Express.md",
     "Development/Angular/src_pdf",
     "Development/Angular/src_img",
     "Development/NodeJs+Express",
@@ -226,7 +228,6 @@
     "Virtualization/Muxed and Muxless Laptops.md",
     "Virtualization/KVM.md",
     "Untitled 3",
-    "Untitled 2",
     "[[Angular-Components-Handouts.pdf.md",
     "Linux Utilities/Whiptail.md",
     "Linux Utilities/jq.md",
