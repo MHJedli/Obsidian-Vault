@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fab0601fd18c0374",
+        "id": "734784078c0eb551",
         "type": "tabs",
         "children": [
           {
-            "id": "902347bfd936823c",
+            "id": "3b54efcec4bcd2d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +19,22 @@
               },
               "icon": "lucide-file",
               "title": "PCAP CERT"
+            }
+          },
+          {
+            "id": "6161fd1c30681fdd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Development/Python/pdf_src/PCAP_Study_Guide.pdf",
+                "page": 4,
+                "left": -11,
+                "top": 143,
+                "zoom": 1.4678075163840076
+              },
+              "icon": "lucide-file-text",
+              "title": "PCAP_Study_Guide"
             }
           }
         ]
@@ -190,13 +206,20 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "ef23e80c1a0a9eda",
+  "active": "3b54efcec4bcd2d3",
   "lastOpenFiles": [
+    "Development/Python/pdf_src/PCAP_Study_Guide.pdf.part",
     "Development/Python/pdf_src/PCAP_Study_Guide.pdf",
+    "Development/Python/PCAP CERT.md",
+    "Development/Python/canvas_src/Exp1.canvas",
+    "Development/Python/img_src/Python_exception_hierarchy.png",
+    "Development/NodeJs+Express/NodeJS+Express.md",
+    "Development/Git.md",
+    "Development/Docker.md",
+    "Development/Python/img_src",
+    "Development/Python/canvas_src",
     "Development/Python/pdf_src/PCAP_Mock_Exam.pdf",
     "Development/Python/pdf_src",
-    "Development/Python/PCAP CERT.md",
-    "Development/NodeJs+Express/NodeJS+Express.md",
     "Development/Python",
     "Development/Angular/Angular.md",
     "API.md",
@@ -213,15 +236,9 @@
     "Development/Angular/src_img/update_reservation_service.png",
     "Development/Angular/src_img/update_reservation.png",
     "Development/Angular/src_img/twb_exp.png",
-    "Development/Angular/src_img/sort_ts.png",
     "Development/NodeJs+Express/img_src",
     "Development/Angular/src_pdf",
-    "Development/Angular/src_img",
-    "Development/NodeJs+Express",
     "Development/MongoDB.md",
-    "Development/Git.md",
-    "Development/Docker.md",
-    "Development/Angular",
     "test.md",
     "Virtualization/Windows VM with QEMU+KVM and GPU Passthrough.md",
     "Virtualization/VFIO.md",

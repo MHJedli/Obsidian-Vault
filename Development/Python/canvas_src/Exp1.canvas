@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"6fa35de713ce0483","type":"text","text":"x = 5","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"06cfc2f09eee2d11","type":"text","text":"x = 5","x":220,"y":-30,"width":250,"height":60},
+		{"id":"c078b3fe28adb2e5","x":220,"y":49,"width":250,"height":60,"type":"text","text":"from module"},
+		{"id":"a9e65d2077dc80c4","x":-125,"y":49,"width":250,"height":60,"type":"text","text":"main program"},
+		{"id":"98906b24874fef67","x":-125,"y":153,"width":595,"height":187,"type":"text","text":"To access x from module :\n```python\nimport module_name\nmodule_name.x\n```"}
+	],
+	"edges":[]
+}
