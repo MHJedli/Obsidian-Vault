@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Development/Python/PCAP CERT.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -27,14 +27,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Development/Python/pdf_src/PCAP_Study_Guide.pdf",
-                "page": 4,
+                "file": "Development/Python/pdf_src/PCAP_Mock_Exam.pdf",
+                "page": 1,
                 "left": -11,
-                "top": 143,
-                "zoom": 1.4678075163840076
+                "top": 807,
+                "zoom": 1.390952358873772
               },
               "icon": "lucide-file-text",
-              "title": "PCAP_Study_Guide"
+              "title": "PCAP_Mock_Exam"
             }
           }
         ]
@@ -208,9 +208,15 @@
   },
   "active": "3b54efcec4bcd2d3",
   "lastOpenFiles": [
-    "Development/Python/pdf_src/PCAP_Study_Guide.pdf.part",
+    "Development/Python/Tests/pcap_extreme.py",
+    "Development/Python/Tests/pcap_hard.py",
+    "Development/Python/Tests/pcap_medium.py",
+    "Development/Python/Tests/pcap_easy.py",
+    "Development/Python/Tests",
+    "Development/Python/pdf_src/PCAP_Mock_Exam.pdf",
     "Development/Python/pdf_src/PCAP_Study_Guide.pdf",
     "Development/Python/PCAP CERT.md",
+    "Development/Python/pdf_src/PCAP_Study_Guide.pdf.part",
     "Development/Python/canvas_src/Exp1.canvas",
     "Development/Python/img_src/Python_exception_hierarchy.png",
     "Development/NodeJs+Express/NodeJS+Express.md",
@@ -218,9 +224,7 @@
     "Development/Docker.md",
     "Development/Python/img_src",
     "Development/Python/canvas_src",
-    "Development/Python/pdf_src/PCAP_Mock_Exam.pdf",
     "Development/Python/pdf_src",
-    "Development/Python",
     "Development/Angular/Angular.md",
     "API.md",
     "Stuff To Do-Explore.md",
@@ -228,16 +232,12 @@
     "Development/NodeJs+Express/img_src/nodejs_roadmap.png",
     "Development/NodeJs+Express/img_src/difference_js_nodejs.png",
     "Development/NodeJs+Express/img_src/calc_app.png",
-    "Development/Angular/src_pdf/Angular-Modules-Handouts.pdf",
-    "Development/Angular/src_pdf/Angular-Components-Handouts.pdf",
     "Development/Angular/src_img/without_ngrx2.png",
     "Development/Angular/src_img/without_ngrx1.png",
     "Development/Angular/src_img/user_redirection.png",
     "Development/Angular/src_img/update_reservation_service.png",
     "Development/Angular/src_img/update_reservation.png",
     "Development/Angular/src_img/twb_exp.png",
-    "Development/NodeJs+Express/img_src",
-    "Development/Angular/src_pdf",
     "Development/MongoDB.md",
     "test.md",
     "Virtualization/Windows VM with QEMU+KVM and GPU Passthrough.md",

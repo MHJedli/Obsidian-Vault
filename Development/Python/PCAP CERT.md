@@ -9,11 +9,27 @@ https://www.youtube.com/watch?v=HR9hBlcKGho&list=PLP1c80t4iv8r4PcNu27KCzQnZ9V85W
 
 # Section To Study:
 
-[[#1. Modules & Packages]]
-[[#2. Exceptions]]
-[[#3. Strings]]
-[[#4. OOP]]
-[[#5. Miscellaneous]]
+[[#1. Modules & Packages (~6 Questions - 12%)]]
+	[[#1.1. import and use modules and packages]]
+	[[#1.2. The math Module]]
+	[[#1.3. The random Module]]
+	[[#1.4. The platform Module]]
+[[#2. Exceptions (~5 Questions - 14%)]]
+	[[#2.1. Exception Handling Syntax]]
+	[[#2.2. Raising & Asserting]]
+	[[#2.3. Exception Hierarchy & Classes]]
+	[[#2.4. Custom Exceptions]]
+[[#3. Strings (~8 Questions - 18%)]]
+[[#4. OOP (~12 Questions - 34%)]]
+	[[#4.1. Core OOP Concept]]
+	[[#4.2. Methods & Constructors]]
+	[[#4.3. Introspection]]
+[[#5. Miscellaneous (~9 Questions - 22%)]]
+	[[#5.1. List Comprehensions]]
+	[[#5.2. Lambda Function]]
+	[[#5.3. Closures]]
+	[[#5.4. File I/O - Concepts]]
+	[[#5.5. File I/O - Operations]]
 
 ---
 # 1. Modules & Packages : (~6 Questions - 12%)
@@ -960,9 +976,11 @@ except AppError:
 except Exception:
     print("Totally unexpected")       # last resort
 ```
-# 3. Strings :
+# 3. Strings : (~8 Questions - 18%)
 
-# 4. OOP :
+# 4. OOP : (~12 Questions - 34%)
+
+## 4.1. Core OOP Concept :
 
 **Class — blueprint for creating objects :**
 - A class defines the structure and behaviour that all its objects will share. It is not an object itself — it is the template
@@ -1709,7 +1727,7 @@ issubclass(Animal, Dog)   # False — parent is not a subclass of child
 	callable(Dog)          # True   — classes are callable (they create instances)
 	```
 
-# 5. Miscellaneous :
+# 5. Miscellaneous : (~9 Questions - 22%)
 
 ## 5.1. List Comprehensions :
 
