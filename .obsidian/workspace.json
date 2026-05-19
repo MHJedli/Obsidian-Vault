@@ -4,40 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "734784078c0eb551",
+        "id": "42760574d9f4abeb",
         "type": "tabs",
         "children": [
           {
-            "id": "3b54efcec4bcd2d3",
+            "id": "3646bc6e604be5db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Java/OCAJP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OCAJP"
+            }
+          },
+          {
+            "id": "d635d51151becc39",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Development/Java/pdf_src/OCA_Java_Study_Guide.pdf",
+                "page": 1,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "OCA_Java_Study_Guide"
+            }
+          },
+          {
+            "id": "a52651dc0f150735",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Development/Python/PCAP CERT.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "PCAP CERT"
             }
-          },
-          {
-            "id": "6161fd1c30681fdd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Development/Python/pdf_src/PCAP_Mock_Exam.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 807,
-                "zoom": 1.390952358873772
-              },
-              "icon": "lucide-file-text",
-              "title": "PCAP_Mock_Exam"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,25 +219,26 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3b54efcec4bcd2d3",
+  "active": "d635d51151becc39",
   "lastOpenFiles": [
+    "Development/Java/OCAJP.md",
+    "Development/Python/PCAP CERT.md",
+    "Development/Java/pdf_src/OCA_Java_Study_Guide.pdf",
+    "Development/Java/mock_tests",
+    "Development/Java/Untitled.md",
+    "Development/Python/pdf_src/PCAP_Mock_Exam.pdf",
+    "Development/Java/mock tests",
+    "Development/Java/pdf_src",
+    "Development/Java/img_src",
+    "Development/Java",
+    "Untitled",
     "Development/Python/Tests/pcap_extreme.py",
     "Development/Python/Tests/pcap_hard.py",
-    "Development/Python/Tests/pcap_medium.py",
-    "Development/Python/Tests/pcap_easy.py",
-    "Development/Python/Tests",
-    "Development/Python/pdf_src/PCAP_Mock_Exam.pdf",
-    "Development/Python/pdf_src/PCAP_Study_Guide.pdf",
-    "Development/Python/PCAP CERT.md",
-    "Development/Python/pdf_src/PCAP_Study_Guide.pdf.part",
     "Development/Python/canvas_src/Exp1.canvas",
     "Development/Python/img_src/Python_exception_hierarchy.png",
     "Development/NodeJs+Express/NodeJS+Express.md",
     "Development/Git.md",
     "Development/Docker.md",
-    "Development/Python/img_src",
-    "Development/Python/canvas_src",
-    "Development/Python/pdf_src",
     "Development/Angular/Angular.md",
     "API.md",
     "Stuff To Do-Explore.md",

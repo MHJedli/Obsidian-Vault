@@ -1,11 +1,5 @@
  PCAP = Python Certified Associate Programmer
- Due Date : 14/06/26
-
-# Resources :
-
-https://www.youtube.com/watch?v=_Tv2z3NRBQw&list=PLP1c80t4iv8p0Np7FubW73gLJsIHOsMpJ&index=1
-
-https://www.youtube.com/watch?v=HR9hBlcKGho&list=PLP1c80t4iv8r4PcNu27KCzQnZ9V85WhKd
+ ~~Due Date : 14/05/26~~ PASSED
 
 # Section To Study:
 
@@ -30,6 +24,14 @@ https://www.youtube.com/watch?v=HR9hBlcKGho&list=PLP1c80t4iv8r4PcNu27KCzQnZ9V85W
 	[[#5.3. Closures]]
 	[[#5.4. File I/O - Concepts]]
 	[[#5.5. File I/O - Operations]]
+
+# Resources :
+
+https://www.youtube.com/watch?v=_Tv2z3NRBQw&list=PLP1c80t4iv8p0Np7FubW73gLJsIHOsMpJ&index=1
+
+https://www.youtube.com/watch?v=HR9hBlcKGho&list=PLP1c80t4iv8r4PcNu27KCzQnZ9V85WhKd
+
+www.examprepper.co/exams (test code : PCAP)
 
 ---
 # 1. Modules & Packages : (~6 Questions - 12%)
